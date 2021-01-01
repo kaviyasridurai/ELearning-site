@@ -7,7 +7,7 @@ html {
 body{
     padding-top:100px;
     background-color: #002366;
-    background: url(../img/dark.jpg) repeat center center;
+    background: url('../img/dark.jpg') repeat center center;
      background-blend-mode: lighten;
   background-attachment:fixed;
     
@@ -89,7 +89,7 @@ fieldset{
     font-size:20px;
 }
 
-@media(max-width:768px) {
+@media(max-width:474px) {
     #banner_content {
         padding-bottom: 15%;
     }
@@ -133,7 +133,7 @@ to {
   }
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 100px) {
   body {background-image:url('img/dark.jpg');}
 .glow{font-size:50px;}
  div.lll{
