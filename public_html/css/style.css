@@ -7,7 +7,7 @@ html {
 body{
     padding-top:100px;
     background-color: #002366;
-    background: url('img/dark.jpg') repeat center center;
+    background: url('../img/dark.jpg') repeat center center;
      background-blend-mode: lighten;
   background-attachment:fixed;
     
